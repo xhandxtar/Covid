@@ -1,0 +1,140 @@
+
+        @media screen and (max-width:576px){
+            .container {
+                width: 100%;
+            }
+        }*{
+        margin: 0px;
+        padding: 0px;
+    }
+    #seccion{
+        margin:auto; width: 1000px; height: 1600px;
+    }
+    #seccion0{
+        margin:auto; width: 1000px; height: 1780px;
+    }     
+    .header{
+        background-color:white;
+        width: 1000px; height: 150px;
+        margin-top: 10px; margin-bottom: 10px;
+    }
+    #seccion2{
+        background-color:white;
+        width: 1000px; height: 1010px;
+        margin-top: 10px;
+    }
+    #images{
+        float:right;
+        background-color:white;
+        width: 300px; height: 620px;
+    }
+    #conceptos{
+        background-color:aquamarine;
+        width: 690px; height: 1010px;
+        text-align: center;
+
+
+    }
+    #cuidados{
+        background-color:aquamarine;
+        width: 690px; height: 1010px;
+        text-align: center;
+
+
+    }
+    #seccion3{
+        background-color:turquoise;
+        width: 1000px; height: 790px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    #seccion4{
+        float:right;
+        background-color:;
+        width: 500px; height: 616.4px;
+        text-align: center;
+    }
+    #cuba{
+        float:right;
+        background-color:aquamarine;
+        width: 250px; height:616.4px;
+        text-align: center;
+    }
+    #brasil{
+        background-color:turquoise;
+        width: 250px; height:616.4px;
+        text-align: center;
+    }
+    #seccion5{
+        background-color:;
+        width: 500px; height: 616.4px;
+        text-align: center;
+    }
+    #panama{
+        float:right;
+        background-color:aquamarine;
+        width: 250px; height:616.4px;
+        text-align: center;
+    }
+    #venezuela{
+        background-color:turquoise;
+        width: 250px; height:616.4px;
+        text-align: center;
+    }
+    .dib1{ float: right; width: 200px; margin: 10px 20px; padding: 5px; border: 1px solid black; }
+    .dib2{ float: right; width: 200px; margin: 10px 20px; padding: 5px; border: 1px solid black; }
+    .dib3{ float: right; width: 200px; margin: 10px 20px; padding: 5px; border: 1px solid black; }
+    .dib4{ float: right; width: 200px; margin: 10px 20px; padding: 5px; border: 1px solid black; }
+    #pic{
+        margin-top: 10px;
+        width: 1000px; height: 290px;
+    }
+    #pic3{
+        float:right;
+        width: 500px; height: 290px;
+    }
+    #pic8{
+        float:right;
+        width: 250px; height: 290px;
+    }
+    #pic7{
+        width: 250px; height: 290px;
+    }
+    #pic2{
+        width: 500px; height: 290px;
+    }
+    #pic6{
+        float:right;
+        width: 250px; height: 290px;
+    }
+    #pic5{
+        width: 250px; height: 290px;
+    }
+    #footer{
+        background-color:#2586d7;
+        width: 1000px; height: 40px;
+        margin-top: 10px;
+        text-align: center;
+        font-family: Arial;
+        font-size: 13px;
+        color: #fff;
+    }
+    h4{
+        margin-left: 10px;
+        margin-right: 10px;
+        font-family: Arial;
+    }
+    p{
+        margin-left: 10px;
+        margin-right: 10px;
+        text-indent: 1cm;
+        font-family: Arial;
+        line-height: 1.5;
+    }
+    ol{
+       text-align: left;
+       margin-left: 80px;
+    }
+    li{
+        font-family: Arial;
+    }
